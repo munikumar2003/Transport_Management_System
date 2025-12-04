@@ -1,0 +1,33 @@
+# Transport Management System
+
+This is a Java-based Transport Management System (TMS) API service.
+
+## Getting Started
+
+The server should run automatically when starting a workspace. To run manually, use the following command:
+
+```sh
+mvn spring-boot:run
+```
+
+## Database Schema
+
+Below is the database schema for the Transport Management System. You can create one using a tool like [draw.io](https://draw.io) and embed it here.
+
+**(Please replace this text with your database schema diagram.)**
+
+[Insert Database Schema Diagram Here]
+
+## API Documentation
+
+The API is documented using Postman. You can create a public link to your Postman collection and share it here.
+
+**[Link to your Postman Collection]**
+
+## Test Coverage
+
+A screenshot of the test coverage report is included below to show the extent of unit testing in the project.
+
+**(Please replace this text with a screenshot of your test coverage report.)**
+
+[Insert Test Coverage Screenshot Here]
