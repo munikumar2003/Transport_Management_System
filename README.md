@@ -13,10 +13,10 @@ mvn spring-boot:run
 ## Database Schema
 
 Below is the database schema for the Transport Management System. You can create one using a tool like [draw.io](https://draw.io) and embed it here.
+<img width="1536" height="1024" alt="Database_Schema" src="https://github.com/user-attachments/assets/dded1293-a432-4ebb-8977-60c11ec07a73" />
 
-**(Please replace this text with your database schema diagram.)**
 
-[Insert Database Schema Diagram Here]
+
 
 ## API Documentation
 
